@@ -1,5 +1,5 @@
 ## This is a markdown file for HKBU COMM7330. My ID is <19434960>!
-*I*  
+*I*
 _love_
 *this*
 **_world_**
@@ -14,10 +14,10 @@ _love_
 :muscle:
 
 In this semester I need
- -Do all the assignment well
- -listen to the professor
- -prepare for the final examination  
+- Do all the assignment well
+  - listen to the professor
+    - prepare for the final examination  
 
  ***AND I CAN***
 
- 【×】***learn a lot from the AIDM***
+ [x]***learn a lot from the AIDM***
