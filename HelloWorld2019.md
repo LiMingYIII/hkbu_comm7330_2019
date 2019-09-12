@@ -13,10 +13,12 @@ _love_
 ***so I must pay attention on it***
 :muscle:
 
+
 In this semester I need
 - Do all the assignment well
   - listen to the professor
     - prepare for the final examination  
+
 
  ***AND I CAN***
 
