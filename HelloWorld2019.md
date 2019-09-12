@@ -20,4 +20,4 @@ In this semester I need
 
  ***AND I CAN***
 
- [x]***learn a lot from the AIDM***
+ -[x]***learn a lot from the AIDM***
